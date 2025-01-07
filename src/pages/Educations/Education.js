@@ -23,23 +23,23 @@ const Education = () => {
             iconStyle={{ background: "#138781", color: "#fff" }}
             icon={<MdSchool />}
           >
-            <h3 className="vertical-timeline-element-title">MCA</h3>
+            <h3 className="vertical-timeline-element-title">
+              Mern FullStack Developer
+            </h3>
             <h4 className="vertical-timeline-element-subtitle">
-              IIT Mumbai, IN
+              FITA Academy, Pondichery.
             </h4>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             contentStyle={{ background: "white", color: "black" }}
             contentArrowStyle={{ borderRight: "7px solid  white" }}
-            date="2017 - 2020"
+            date="2000 - 2003"
             iconStyle={{ background: "#138781", color: "#fff" }}
             icon={<MdSchool />}
           >
             <h3 className="vertical-timeline-element-title">BCA</h3>
-            <h4 className="vertical-timeline-element-subtitle">
-              IIT Mumbai, IN
-            </h4>
+            <h4 className="vertical-timeline-element-subtitle">KNC, Thellar</h4>
           </VerticalTimelineElement>
         </VerticalTimeline>
       </div>
