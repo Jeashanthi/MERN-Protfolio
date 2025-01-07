@@ -22,12 +22,12 @@ const WorkExp = () => {
               contentArrowStyle={{
                 borderRight: "7px solid  white",
               }}
-              date="2023 - present"
+              date="2007 - 2012"
               iconStyle={{ background: "#1e1e2c", color: "#fff" }}
               icon={<SiReact />}
             >
               <h3 className="vertical-timeline-element-title">
-                Full Stack Developer
+                Sr. DTP Specialist
               </h3>
               <h4 className="vertical-timeline-element-subtitle">
                 Integra Software services Pvt., Ltd.
@@ -43,12 +43,12 @@ const WorkExp = () => {
               contentArrowStyle={{
                 borderRight: "7px solid  white",
               }}
-              date="2020 - 2022"
+              date="2005 - 2007"
               iconStyle={{ background: "#1e1e2c", color: "#fff" }}
               icon={<SiReact />}
             >
               <h3 className="vertical-timeline-element-title">
-                Full Stack Developer
+                DTP Specialist
               </h3>
               <h4 className="vertical-timeline-element-subtitle">
                 Madox Solutions Private Limited.,
@@ -64,15 +64,13 @@ const WorkExp = () => {
               contentArrowStyle={{
                 borderRight: "7px solid  white",
               }}
-              date="2018 - 2020"
+              date="2003 - 2005"
               iconStyle={{ background: "#1e1e2c", color: "#fff" }}
               icon={<SiReact />}
             >
-              <h3 className="vertical-timeline-element-title">
-                Full Stack Developer
-              </h3>
+              <h3 className="vertical-timeline-element-title">Composer</h3>
               <h4 className="vertical-timeline-element-subtitle">
-                xyz, pvt ltd
+                Integra Software services Pvt., Ltd.
               </h4>
               <p>
                 Creative Direction, User Experience, Visual Design, Project
