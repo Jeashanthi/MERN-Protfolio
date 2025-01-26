@@ -10,11 +10,12 @@ const Projects = () => {
         </h2>
         <hr />
         <p className="pb-3 text-center">
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia a
-          odit ab, eligendi cupiditate, minima quasi excepturi modi et quo
-          delectus, iusto dolor atque aliquam aspernatur eveniet! Ipsam eum
-          nobis omnis id voluptatibus quas eos maxime ipsum facere numquam,
-          voluptate qui et animi doloribus nulla eius molestiae unde tempore ad
+          Here are some of my most recent and notable projects, showcasing my
+          expertise in web development, including frontend design, backend
+          architecture, and full-stack applications using the MERN stack: <br />
+          <b>MERN Stack Blog Application:</b> A fully functional blog platform
+          featuring user authentication, CRUD operations, and a responsive UI
+          built with React, Node.js, Express, and MongoDB.
         </p>
         {/* card design */}
         <div className="row" id="ads">
@@ -108,7 +109,7 @@ const Projects = () => {
               <div className="card-image">
                 <span className="card-notify-badge">MERN Stack</span>
                 <img
-                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm_0Py5hR9hgQE6XCcs5Pcr9-fOj3nkjIl9g&s"
+                  src="https://store-images.s-microsoft.com/image/apps.29291.e1bffbe4-4588-426f-b246-06f673d4dea7.1cd93c59-123e-4dd4-a201-105dff93b9e0.70745d5c-d2f4-48be-8151-ead525e84b07.png"
                   alt="project1"
                 />
               </div>
@@ -125,7 +126,7 @@ const Projects = () => {
                 </div>
                 <a
                   className="ad-btn"
-                  href="https://github.com/Jeashanthi/amazon-clone"
+                  href="https://github.com/Jeashanthi/Add-Book"
                 >
                   View
                 </a>
@@ -137,7 +138,7 @@ const Projects = () => {
               <div className="card-image">
                 <span className="card-notify-badge">MERN Stack</span>
                 <img
-                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm_0Py5hR9hgQE6XCcs5Pcr9-fOj3nkjIl9g&s"
+                  src="https://static.vecteezy.com/system/resources/previews/035/743/516/non_2x/bookstore-shop-exterior-and-man-png.png"
                   alt="project1"
                 />
               </div>
@@ -154,7 +155,7 @@ const Projects = () => {
                 </div>
                 <a
                   className="ad-btn"
-                  href="https://github.com/Jeashanthi/amazon-clone"
+                  href="https://github.com/Jeashanthi/bookShop"
                 >
                   View
                 </a>
