@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { toast } from "react-toastify";
+
 import axios from "axios";
 import "./Contact.css";
 import Rotate from "react-reveal/Rotate";
@@ -63,7 +64,9 @@ const Contact = () => {
                       <h6>
                         Contact With
                         <BsLinkedin color="blue" size={30} className="ms-2" />
-                        <BsGithub color="black" size={30} className="ms-2" />
+                        <a href="https://github.com/Jeashanthi/bookShop">
+                          <BsGithub color="black" size={30} className="ms-2" />
+                        </a>
                         <BsFacebook color="blue" size={30} className="ms-2" />
                       </h6>
                     </div>

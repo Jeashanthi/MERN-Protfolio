@@ -26,12 +26,6 @@ const About = () => {
                 committed to delivering scalable and high-quality solutions
                 tailored to meet business needs.
               </p>
-              <p>
-                When I'm not coding, you'll often find me exploring new
-                technologies, engaging in continuous learning, or sharing
-                knowledge with the developer community. I am always excited to
-                take on new challenges and bring ideas to life through code.
-              </p>
             </div>
           </div>
         </div>
