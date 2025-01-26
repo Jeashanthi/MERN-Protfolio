@@ -103,6 +103,64 @@ const Projects = () => {
               </div>
             </div>
           </div>
+          <div className="col-md-4 mt-5">
+            <div className="card rounded">
+              <div className="card-image">
+                <span className="card-notify-badge">MERN Stack</span>
+                <img
+                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm_0Py5hR9hgQE6XCcs5Pcr9-fOj3nkjIl9g&s"
+                  alt="project1"
+                />
+              </div>
+              <div className="card-image-overly m-auto mt-3">
+                <span className="card-detail-badge">React JS</span>
+                <span className="card-detail-badge">Node</span>
+                <span className="card-detail-badge">Express</span>
+
+                <span className="card-detail-badge">Mongo DB</span>
+              </div>
+              <div className="card-body text-center">
+                <div className="ad-title m-auto">
+                  <h5 className="text-uppercase">Address Book</h5>
+                </div>
+                <a
+                  className="ad-btn"
+                  href="https://github.com/Jeashanthi/amazon-clone"
+                >
+                  View
+                </a>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-4 mt-5">
+            <div className="card rounded">
+              <div className="card-image">
+                <span className="card-notify-badge">MERN Stack</span>
+                <img
+                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm_0Py5hR9hgQE6XCcs5Pcr9-fOj3nkjIl9g&s"
+                  alt="project1"
+                />
+              </div>
+              <div className="card-image-overly m-auto mt-3">
+                <span className="card-detail-badge">React JS</span>
+                <span className="card-detail-badge">Node</span>
+                <span className="card-detail-badge">Express</span>
+
+                <span className="card-detail-badge">Mongo DB</span>
+              </div>
+              <div className="card-body text-center">
+                <div className="ad-title m-auto">
+                  <h5 className="text-uppercase">Book Shop</h5>
+                </div>
+                <a
+                  className="ad-btn"
+                  href="https://github.com/Jeashanthi/amazon-clone"
+                >
+                  View
+                </a>
+              </div>
+            </div>
+          </div>
           {/* </Spin> */}
         </div>
       </div>

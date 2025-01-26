@@ -60,7 +60,7 @@ const Menus = ({ toggle }) => {
                   // duration={100}
                 >
                   <FcReadingEbook />
-                  Education
+                  Edu
                 </Link>
               </div>
 
@@ -73,7 +73,7 @@ const Menus = ({ toggle }) => {
                   // duration={100}
                 >
                   <FcBiotech />
-                  Tech Stack
+                  Tech
                 </Link>
               </div>
 
@@ -98,7 +98,7 @@ const Menus = ({ toggle }) => {
                   // duration={100}
                 >
                   <FcPortraitMode />
-                  Work Experince
+                  Work Exp.
                 </Link>
               </div>
               <div className="nav-link">
